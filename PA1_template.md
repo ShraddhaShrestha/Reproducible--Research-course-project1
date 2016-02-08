@@ -1,6 +1,4 @@
-# Reproducible Research: Peer Assessment 1
-
-
+# Reproducible Research: Course project 1
 
 ## Loading and preprocessing the data
 ##### 1. Load the data (i.e. read.csv())
@@ -18,7 +16,6 @@ activityData <- read.csv('activity.csv')
 ```
 
 -----
-
 ## What is mean total number of steps taken per day?
 
 ```r
